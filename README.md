@@ -68,7 +68,7 @@ for r in results:
 
 > Sample prediction on `bus.jpg` using YOLOv8n:
 
-![Prediction Output](runs/detect/train/confusion_matrix.png) <!-- Optional image if saved -->
+![Prediction Output](confusion_matrix.png) <!-- Optional image if saved -->
 
 ---
 
